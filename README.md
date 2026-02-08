@@ -2,13 +2,14 @@
 
 
 
-
 <br>![Status](https://img.shields.io/badge/Status-Updating-brightgreen?style=flat)
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat&logo=python&logoColor=white)
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%F0%9F%91%8B%2C+This+is+my+profile!;Passionate+about+IoT%2C+AI+%2F+ML;Software+%26+Data+Engineer+)](https://git.io/typing-svg)
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%F0%9F%91%8B%2C+This+is+my+profile!;Passionate+about+IoT%2C+AI+%2F+ML;Software+%26+Data+Engineer+" alt="Typing SVG" />
+  </a>
+</p>
 
 I'm actively learning and improving my skills in technologies, tools, and AI <img width="20" height="20" alt="robot" src="https://github.com/user-attachments/assets/59a7ca35-eb20-460e-affd-294c8ff9f2ba" />
 <br> I'm always eager to collaborate and work on projects
@@ -42,7 +43,6 @@ I'm actively learning and improving my skills in technologies, tools, and AI <im
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img src="https://logo.svgcdn.com/devicon-plain/scikitlearn-plain.svg" height="40" alt="scikit-learn logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn logo" />
-
 </div>
 
 
