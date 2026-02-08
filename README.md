@@ -1,8 +1,7 @@
 ## 
 
-![Python](https://img.shields.io/badge/Python-3.12+-blue)
-
-
+![Status](https://img.shields.io/badge/Status-Updating-brightgreen?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.12+-blue?style=for-the-badge&logo=python&logoColor=white)
 
 
 - 🔭 I’m currently working on ...
