@@ -1,7 +1,9 @@
+<img width="1584" height="396" alt="profile" src="https://github.com/user-attachments/assets/e096fe79-40d4-4347-9c65-67e3722ec7e0" />
 
 
 
-![Status](https://img.shields.io/badge/Status-Updating-brightgreen?style=flat)
+
+<br>![Status](https://img.shields.io/badge/Status-Updating-brightgreen?style=flat)
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat&logo=python&logoColor=white)
 
 
