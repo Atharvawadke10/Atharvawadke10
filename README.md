@@ -1,7 +1,7 @@
 ## 
 
-![Status](https://img.shields.io/badge/Status-Actively%20Developing-blue)
-![Status](https://img.shields.io/badge/Status-Learning%20ML%2FDL-orange)
+![Python](https://img.shields.io/badge/Python-3.12+-blue)
+
 
 
 
