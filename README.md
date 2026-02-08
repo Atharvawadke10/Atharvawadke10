@@ -1,9 +1,8 @@
-## Hi there 👋
+## 
 
-<!--
-**Atharvawadke10/Atharvawadke10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Status](https://img.shields.io/badge/Status-Updating-brightgreen?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.12+-blue?style=for-the-badge&logo=python&logoColor=white)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
