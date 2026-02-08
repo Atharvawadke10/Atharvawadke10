@@ -1,6 +1,7 @@
 ## 
 
-![Status](https://img.shields.io/badge/Status-Updating-brightgreen?style=flat) <br>
+![Status](https://img.shields.io/badge/Status-Updating-brightgreen?style=flat)
+<br>
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat&logo=python&logoColor=white)
 
 
